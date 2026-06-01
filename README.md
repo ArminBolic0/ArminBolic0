@@ -126,14 +126,11 @@ Contributed to the Godot Engine ecosystem by fixing a Visual Studio version-dete
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArminBolic0&show_icons=true" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=ArminBolic0)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArminBolic0&layout=compact" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=ArminBolic0)
 
+![Trophies](https://github-profile-trophy.vercel.app/?username=ArminBolic0&theme=flat)
 ---
 
 ## 📫 Contact
