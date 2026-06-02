@@ -106,23 +106,7 @@ Contributed to the Godot Engine ecosystem by fixing a Visual Studio version-dete
 
 * Added support for future Visual Studio compatibility
 * Passed all CI checks
-* Successfully merged through GitHub workflow
 
----
-
-## 💼 Experience
-
-### Backend Developer — XLab
-
-*June 2024 – December 2024*
-
-* Worked on a large HRM system
-* Developed Django backend features
-* Resolved legacy issues
-* Collaborated with React developers
-* Worked in an agile environment using GitLab
-
----
 
 ## 📊 GitHub Stats
 
@@ -130,8 +114,6 @@ Contributed to the Godot Engine ecosystem by fixing a Visual Studio version-dete
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ArminBolic0)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=ArminBolic0&theme=flat)
----
 
 ## 📫 Contact
 
