@@ -112,8 +112,6 @@ Contributed to the Godot Engine ecosystem by fixing a Visual Studio version-dete
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ArminBolic0)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ArminBolic0)
-
 
 ## 📫 Contact
 
